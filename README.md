@@ -1,4 +1,4 @@
-# WeAreTheChampions
+# We Are The Champions
 
 
 This project is **BilgeAdam Academy**, semester homework.
